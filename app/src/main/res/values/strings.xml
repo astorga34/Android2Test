@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android2Test</string>
+    <string name="button_begin">Empezar</string>
+    <string name="button_cancel">Cancelar</string>
+</resources>
